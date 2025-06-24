@@ -1,8 +1,8 @@
 # CS50 
 Projects for Harvard's [CS50: Introduction to Computer Science](https://cs50.harvard.edu/) course
 
-##Project 1
-##Scratch Project – Muffins
+## Project 1
+## Scratch Project – Muffins
 
 ## 🎮 Game Overview
 **Muffins** is a simple interactive game where:
